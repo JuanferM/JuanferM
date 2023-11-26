@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Juanfer MERCIER</h1>
+<h3 align="center">A computer science student at Nantes Université</h3>
 
-<!--
-**JuanferM/JuanferM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I am a student in Operations Research (OR) interested in optimization, decision support, OR,
+artificial intelligence and computer graphics. I like investigating, keeping up with the latest
+trends and adding new strings to my bow to solve difficult problems.</p>
 
-Here are some ideas to get you started:
+- 🎓 I'm completing my Master Degree in Computer Science at [Nantes University](https://www.univ-nantes.fr/) in France.
+- 🔭 I’m currently working on metaheuristics to solve OR problems
+- 🌱 I’m also currently learning CUDA programming
+- 🌐 Let's collaborate and spark new ideas together by connecting on 
+  <a href="https://www.linkedin.com/in/juanfer-mercier/">
+    <img alt="LinkedIn" width="20px" height="20px" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools :
+<p align="center">
+  <a href="https://github.com/JuanferM">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,c,cpp,stackoverflow,markdown,latex,java,julia,python,replit,neovim,vscode,tensorflow,processing,cmake&perline=6" />
+  </a>
+</p>
